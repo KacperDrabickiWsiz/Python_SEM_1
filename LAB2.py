@@ -66,3 +66,24 @@ while x<=4:
     x+=0.5
     '''
 #ZADANIE 3
+'''
+while True:
+    x=int(input('Podaj liczbe:'))
+    if x<0: break
+'''
+#ZADANIE 4
+a=int(input('Podaj liczbę: '))
+b=int(input('Podaj liczbę: '))
+
+if a>b:
+    wieksza = a
+    mniejsza = b
+else:
+    wieksza = b
+    mniejsza = a
+while(mniejsza <= wieksza):
+    if mniejsza%2 == 1: #skip liczb nieparzystych
+        mniejsza +=1
+        continue
+    print(mniejsza, end=' ')
+    mniejsza = mniejsza + 1
