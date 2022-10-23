@@ -43,4 +43,26 @@ elif z==5:
 print(f'Wynik = {w}')'''
 
 #PĘTLA WHILE
+'''
+a=int(input('Podaj liczbę: '))
+b=int(input('Podaj liczbę: '))
 
+if a>b:
+    wieksza = a
+    mniejsza = b
+else:
+    wieksza = b
+    mniejsza = a
+
+while(mniejsza <= wieksza):
+    print(mniejsza, end=' ')
+    mniejsza = mniejsza + 1
+'''
+#ZADANIE 2
+'''
+x = -4
+while x<=4:
+    print(f"f{x} = {2*x**2-5*x-8}")
+    x+=0.5
+    '''
+#ZADANIE 3
