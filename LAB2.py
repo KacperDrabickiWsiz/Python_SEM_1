@@ -23,7 +23,7 @@ if z>=6 or z<=0:
     exit()
 
 x=float(input('Podaj wartość 1: '))
-y=float(input('Podaj wartość 2: '))
+y=float(input('Podaj wartość 2: '   ))
 
 if z==1:
     w=x+y
