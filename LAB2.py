@@ -32,7 +32,11 @@ elif z==2:
 elif z==3:
     w=x*y
 elif z==4:
-    w=x/y
+    if y==0:
+        print('Niepoprawna wartość')
+        exit()
+    else:
+        w=x/y
 elif z==5:
     w=x**y
 
