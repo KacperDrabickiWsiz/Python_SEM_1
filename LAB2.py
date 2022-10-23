@@ -17,7 +17,7 @@ print("""
 4) dzielenie 
 5) potęgowanie """)
 
-z=int(input('Jaką operacje chcesz wykoań'))
+z=int(input('Jaką operacje chcesz wykoać: '))
 if z>=6 or z<=0:
     print('Niepoprawna wartość')
     exit()
