@@ -9,7 +9,7 @@ else: cena=20
 print(f'Cena= {cena}zł')'''
 
 #ZADANIE 2
-
+'''
 print("""
 1) dodawanie
 2) odejmowanie
@@ -23,7 +23,7 @@ if z>=6 or z<=0:
     exit()
 
 x=float(input('Podaj wartość 1: '))
-y=float(input('Podaj wartość 2: '   ))
+y=float(input('Podaj wartość 2: '))
 
 if z==1:
     w=x+y
@@ -40,8 +40,7 @@ elif z==4:
 elif z==5:
     w=x**y
 
+print(f'Wynik = {w}')'''
 
-
-print(f'Wynik = {w}')
-
+#PĘTLA WHILE
 
