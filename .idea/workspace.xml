@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3954c76-d22c-491a-879e-d84b4c166ede" name="Changes" comment="Lab">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB3_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB3_7.py" afterDir="false" />
+    <list default="true" id="b3954c76-d22c-491a-879e-d84b4c166ede" name="Changes" comment="Lab4">
+      <change beforePath="$PROJECT_DIR$/LAB4.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +227,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667738559441</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lab">
+      <created>1667738585902</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667738585902</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Lab">
+      <created>1667738695561</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667738695561</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Lab">
+      <created>1667738715190</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667738715190</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Lab4">
+      <created>1667738769554</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667738769554</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +272,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab" />
+    <MESSAGE value="Lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab4" />
   </component>
 </project>
