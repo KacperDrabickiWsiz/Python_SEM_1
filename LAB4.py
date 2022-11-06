@@ -7,7 +7,7 @@ print(lista_zakupow)
 print(lista_zakupow[-2]+","+lista_zakupow[-1]) #-2 i -1 to ostatni i przedostati element listy'''
 
 #ZADANIE 2
-import random
+'''import random
 x=int(input('Podaj liczbe1:'))
 lista1 = []
 for n in range(x):
@@ -34,4 +34,14 @@ zesetaw_1_2= lista1 + lista2
 
 zesetaw_1_2.sort()
 
-print(zesetaw_1_2)
+print(zesetaw_1_2)'''
+
+#ZADANIE 3
+zwierzęta = []
+for x in range (3):
+   a = input("podaj nazwe zwierząt")
+   zwierzęta.append(a)
+print(zwierzęta)
+zwierzęta.sort()
+print(zwierzęta)
+print(zwierzęta[0] , zwierzęta[-3:])
