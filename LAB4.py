@@ -29,3 +29,9 @@ elif x3 in lista2:
     print('liczba wystepuje w lista 2')
 else:
     print('liczba nie wystepuej')
+
+zesetaw_1_2= lista1 + lista2
+
+zesetaw_1_2.sort()
+
+print(zesetaw_1_2)
