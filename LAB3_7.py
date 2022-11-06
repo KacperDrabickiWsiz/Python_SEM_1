@@ -12,8 +12,15 @@ for d in range(20,0,-2):
     print(d, end=' ')'''
 
 #ZADANIE 8
-a=int(input('Podaj ilość wierszy:'))
+'''a=int(input('Podaj ilość wierszy:'))
 for c in range(a):
     for b in range(a):
         print('*', end='')
-    print('')
+    print('')'''
+
+#ZADANIE 9
+a=int(input('Podaj ilość wierszy:'))
+for i in range(a):
+    print('*', end='\n')
+    for k in range(i):
+        print('*', end='')
