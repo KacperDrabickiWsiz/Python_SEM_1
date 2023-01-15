@@ -13,7 +13,7 @@ krotka=oblicz(2,4)
 print(krotka[0],krotka[1])
 l1,l2=oblicz(3.5,0.6)
 print(l1,l2)
-'''
+
 def find(lista, wartosc):
     new_list = []
     for i in range(len(lista)):
@@ -24,3 +24,13 @@ l1 = [1, 2, 1, 1, 3, 5]
 wartosc_szukana = 1
 lista_indeksow = find(l1, wartosc_szukana)
 print(lista_indeksow)
+'''
+
+def sum_of_values(dict1):
+    suma = 0
+    for wartosc in dict1.values():
+        suma += wartosc
+    return suma
+
+dict1 = {'data1':10, 'data2':-4, 'data3':2}
+print(sum_of_values(dict1))
