@@ -46,3 +46,21 @@ def potęga(lista1, lista2):
 wynik=potęga([2,4,3,7],[2,4,6,1])
 print(wynik)
 '''
+
+def dodawanie(a,b):
+    return a+b
+def odejmowanie(a,b):
+    return a-b
+def mnożenie(a,b):
+    return a*b
+def dzielenie(a,b):
+    if b==0:
+        return "Wynik równy 0"
+    else:
+        return a/b
+kalkulator={'+': dodawanie,'-': odejmowanie,'*': mnożenie,'/': dzielenie}
+
+d='+'
+l1=3
+l2=5
+print=(kalkulator[d](l1,l2))
